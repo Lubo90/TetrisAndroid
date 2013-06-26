@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tetris</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="graj">Graj</string>
+    <string name="autorzy">Autorzy: Krzysztof Lubosik, Wojciech Miczka</string>
+
+</resources>
